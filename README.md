@@ -21,7 +21,7 @@ MindMate aims to create an AI-based mental health assistant that:
 
 The chatbot uses PDF documents as its main knowledge source. Example PDFs:
 
-1. [Medical_Book.pdf](server/uploaded_docs/medical_book.pdf)  
+1. [Medical_Book.pdf]("C:\Users\LENOVO\Downloads\medical_book (1).pdf")  
 2. [EmotionalIntelligence.pdf](server/uploaded_docs/EmotionalIntelligence.pdf)
 3. [Combined_Docs.pdf](server/uploaded_docs/combined_docs.pdf)
 4. [The-Social-Skills-Guidebook-fhc-dr-notes.pdf](server/uploaded_docs/the-social-skills-guidebook-fhc-dr-notes.pdf)
