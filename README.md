@@ -13,7 +13,7 @@ MindMate aims to create an AI-based mental health assistant that:
 - Uses **PDF documents as a knowledge base**.
 - Supports **multilingual queries**.
 - Allows users to **upload new PDFs** to improve the knowledge base.
-- Stores and allows downloading **chat history**.
+- Stores **chat history**.
 
 ---
 
