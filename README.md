@@ -25,7 +25,7 @@ The chatbot uses PDF documents as its main knowledge source. Example PDFs:
 2. [EmotionalIntelligence.pdf](server/uploaded_docs/EmotionalIntelligence.pdf)
 3. [Combined_Docs.pdf](server/uploaded_docs/combined_docs.pdf)
 4. [The-Social-Skills-Guidebook-fhc-dr-notes.pdf](server/uploaded_docs/the-social-skills-guidebook-fhc-dr-notes.pdf)
-5. [Managing-Stress-Principles-and-Strategies-for-Health-and-Wellbeing.pdf](server/uploaded_docs/Managing-Stress-Principles-and-Strategies-for-Health-and-Wellbeing.pdf)      
+5. [Managing-Stress-Principles-and-Strategies-for-Health-and-Wellbeing.pdf](server/file:///C:/Users/LENOVO/Downloads/Managing-Stress-Principles-and-Strategies-for-Health-and-Wellbeing%20(1).pdf)      
 
 ---
 
